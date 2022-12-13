@@ -1,5 +1,5 @@
 # Fact-Extraction-and-Verification
-Given a user query, the relevant facts from the [FEVER]((https://fever.ai/dataset/fever.html)) dataset, supporting or refuting the claim is extracted and displayed
+Given a user query, the relevant facts from the [FEVER](https://fever.ai/dataset/fever.html) dataset, supporting or refuting the claim is extracted and displayed
 
 Overview of the project: [Slides](https://docs.google.com/presentation/d/e/2PACX-1vSnswIecQbgyUyBhz-nVNT6yQ7OGUTlY0IQjaxn7c9qw1pFEs945JCPuS8CoqyCFySrs5hx3h-dFu2w/pub?start=true&loop=true&delayms=30000)
 
